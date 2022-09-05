@@ -1,8 +1,9 @@
 # Ubuntu-Killer-Coda-
 Go to -> https://killercoda.com/pawelpiwosz/course/linuxFundamentals/lf-21-finalTest
+
 Commands:
 
-git clone https://github.com/a2nk/ubuntukiller
+git clone https://github.com/MicroChipKali/Ubuntu-Killer-Coda-
 
 cd ubuntukiller
 
